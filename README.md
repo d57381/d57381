@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d57381
 - 👀 I’m interested in data science, machine and deep learning.
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, and clojure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
